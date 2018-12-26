@@ -75,6 +75,7 @@ void Game::ComposeFrame() {
 	crossX += move_x_Range;
 	crossY += move_y_Range;
 
+	// “∆∂Ø∫ÛªÊ÷∆
 	getCross(crossX, crossY);
 }
 
